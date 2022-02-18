@@ -8,7 +8,7 @@
 	"preview": true,
 	"icon": "docs/images/icon.png",
 	"engines": {
-		"vscode": "^1.37.0"
+		"vscode": "^1.53.2"
 	},
 	"repository": {
 		"type": "git",
